@@ -10,7 +10,6 @@ It includes:
 - TODO Testing
 - GH Pages setup (in progress)
 - [ESLint](https://eslint.org/)
-- TODO Routing?
 - TODO TypeScript branch?
 
 ## Prerequisites
