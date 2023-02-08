@@ -2,7 +2,7 @@
 
 username=ann-kilzer
 repo=sample-react-app
-
+echo git@github.com:${username}/${repo}.git
 
 # abort on errors
 set -e
